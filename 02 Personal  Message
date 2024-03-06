@@ -1,0 +1,2 @@
+let friendName: string="Maha";// Infering Types, 
+console.log(`"Hello ${friendName},Would you like to join us for next trip?"`
