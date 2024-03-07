@@ -1,4 +1,4 @@
-//AMBREEN RAIS,
+//AMBREEN,
 //5th March 2024
 //This program prints the name in lower case,upper case and title case.
 let Name:string="maha";
