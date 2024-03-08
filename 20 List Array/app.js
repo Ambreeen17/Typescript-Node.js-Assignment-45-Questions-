@@ -1,4 +1,2 @@
-var Language = ["Urdu", "English", "Persian", "Arabic", "French", "Russian", "Chinese", "Japanese", "Hindi"];
-Language.forEach(function (Language) {
-    console.log(Language);
-});
+var Language = ["Urdu", "English", "Persian", "Arabic"];
+console.log("Most spoken languages in the world are:", Language);
